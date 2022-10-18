@@ -1,8 +1,6 @@
 package main
 
-import (
-	"./src/router"
-)
+import "SE_Project/router"
 
 func main() {
 	r := router.SetupRouter()
